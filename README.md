@@ -1,7 +1,5 @@
 # TFshopper-E-commerce-website-Project
 
-# E-Commerce Website
-
 ## Description
 
 This project is a fully responsive e-commerce website built using HTML, CSS, and JavaScript. It provides a user-friendly interface for browsing products, managing a shopping cart, and processing orders.
