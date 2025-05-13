@@ -26,3 +26,19 @@ This project is a fully responsive e-commerce website built using HTML, CSS, and
 
    ```bash
    git clone https://github.com/dayorobbin/TFshopper-E-commerce-website-Project
+
+Usage
+Explore the product catalog by clicking on the product images.
+Use the shopping cart icon to view and manage your items.
+Proceed to checkout to complete your purchase.
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License. full acknoledgement to crypticalcoder
+
+Acknowledgments
+Inspiration from various e-commerce platforms.
+Special thanks to all the open-source projects that helped in building this website.
+Contact
+For any inquiries, please contact info@TFshopper.com
